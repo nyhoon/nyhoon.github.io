@@ -8,5 +8,15 @@
         "5F:BC:AC:BF:59:70:46:7A:BB:16:6E:AD:EB:57:32:0B:72:6D:86:8B:23:35:E7:E2:C2:A4:52:20:BA:A5:EF:5B"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.neuralagent.neofall",
+      "sha256_cert_fingerprints": [
+        "88:FE:1F:75:5D:81:B1:3F:F8:48:71:57:07:88:FD:58:52:9F:D8:33:D0:D8:83:89:60:FE:2A:0A:95:AB:F2:2A"
+      ]
+    }
   }
 ]
