@@ -1,0 +1,4 @@
+# GitHub Pages(Jekyll)가 dot 폴더 `.well-known` 을 기본 제외하므로 명시적으로 포함한다.
+# Android App Links: https://nyhoon.github.io/.well-known/assetlinks.json
+include:
+  - .well-known
