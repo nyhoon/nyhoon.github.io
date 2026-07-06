@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "J93T786VSH.com.neuralagent.neofall",
+        "paths": ["/NeoFallSite", "/NeoFallSite/*"]
+      }
+    ]
+  }
+}
